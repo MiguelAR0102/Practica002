@@ -9,7 +9,7 @@ scanf ("%d",&opt);
 printf ("ingrese el primer operando:");
 scanf ("%f",&a);
 printf ("ingrese el segundo operando:");
- scanf ("%f",b);
+ scanf ("%f",&b);
  switch (opt) {
  case 1:
      c=a+b;
