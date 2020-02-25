@@ -15,7 +15,7 @@ printf ("ingrese el segundo operando:");
      c=a+b;
      break;
  case 2:
-    c=a-b;{
+    c=a-b;
     break;
  case 3:
     c=a*b;
@@ -29,7 +29,5 @@ printf ("ingrese el segundo operando:");
     c=a/b;
     default:;
     }
-
- }
 printf ("el resultado es %f",c);
 }
